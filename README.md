@@ -1,6 +1,7 @@
 # Henrique Toledo portfolio
 Hello! this is my data analysis portfolio. In this page you can find some of the project I have been working on recently.
 
-# Project 1:  How Does a Bike-Share Navigate Speedy Success? (Case study)
+# [Project 1:  Bellabeat Case Study with R](https://github.com/henriquetoledos/bellabeat-case-study-R)
 
-Overview: This project is part of the Google Data Analytics Certificate, and it was done as a capstone project. The goal of this project was to understand how annual members and casual riders use Cyclistic bike sharing system differently, in order to better support the Marketing team to drive successful campaigns to convert those casual drivers into annual members. For this, it was used the data of previous 12 months from Cyclictic.
+Overview: This project has been done as a capstone project for the Google Data Analytics course, completed at Coursera. The goal is to analyze a public data from fitness tracker smart devices in order to support the marketing strategy of Bellabeat, a high-tech manufacturer of health-focused products for women.
+
