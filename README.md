@@ -1,5 +1,7 @@
-# Henrique Toledo portfolio
-Hello! this is my data analysis portfolio. In this page you can find some of the project I have been working on recently.
+# About me
+
+Hello! I'm Henrique Toledo, a electronics engineer and data analyst from Belo Horizonte, Brazil. 
+In this page you can find some of the project I have been working on recently.
 
 # [Project 1:  Bellabeat Case Study with R](https://github.com/henriquetoledos/bellabeat-case-study-R)
 
